@@ -1,4 +1,4 @@
-functon runGame() {
+function runGame() {
 
 }
 function checkAnswer() {
