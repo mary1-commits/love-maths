@@ -32,7 +32,7 @@ function incrementScore() {
 function incrementWrongAnswer() {
 
 }
-function displayAdditionQuestion() {
+function displayAdditionQuestion(operand1, operand2) {
 
 }
 function displaySubtractQuestion() {
